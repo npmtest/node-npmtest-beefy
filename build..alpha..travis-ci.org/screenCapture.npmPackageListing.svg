@@ -1,135 +1,135 @@
 <svg height="2110" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2110" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-11 15:42:00 +0000   851394 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-11 15:42:00 +0000     1263 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-11 15:42:00 +0000     1082 bytes  LICENSE.mit</tspan>
-<tspan x="10" y="74">  3.  2017-04-11 15:42:00 +0000     5631 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-11 15:42:00 +0000      210 bytes  bin/beefy</tspan>
-<tspan x="10" y="106">  5.  2017-04-11 15:42:00 +0000    61781 bytes  coverage/coverage.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-11 15:42:00 +0000    12602 bytes  coverage/lcov-report/beefy/index.html</tspan>
-<tspan x="10" y="138">  7.  2017-04-11 15:42:00 +0000    17542 bytes  coverage/lcov-report/beefy/index.js.html</tspan>
-<tspan x="10" y="154">  8.  2017-04-11 15:42:00 +0000    13706 bytes  coverage/lcov-report/beefy/lib/accumulate-error.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-17 21:22:18 +0000   851394 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 21:22:18 +0000     1263 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 21:22:18 +0000     1082 bytes  LICENSE.mit</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 21:22:18 +0000     5631 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 21:22:18 +0000      210 bytes  bin/beefy</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 21:22:18 +0000    61781 bytes  coverage/coverage.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 21:22:18 +0000    12602 bytes  coverage/lcov-report/beefy/index.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 21:22:18 +0000    17542 bytes  coverage/lcov-report/beefy/index.js.html</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 21:22:18 +0000    13706 bytes  coverage/lcov-report/beefy/lib/accumulate-error.\</tspan>
 <tspan x="10" y="170">js.html</tspan>
-<tspan x="10" y="186">  9.  2017-04-11 15:42:00 +0000    20216 bytes  coverage/lcov-report/beefy/lib/args-to-options.j\</tspan>
+<tspan x="10" y="186">  9.  2017-04-17 21:22:18 +0000    20216 bytes  coverage/lcov-report/beefy/lib/args-to-options.j\</tspan>
 <tspan x="10" y="202">s.html</tspan>
-<tspan x="10" y="218"> 10.  2017-04-11 15:42:00 +0000    13230 bytes  coverage/lcov-report/beefy/lib/bundlers/browseri\</tspan>
+<tspan x="10" y="218"> 10.  2017-04-17 21:22:18 +0000    13230 bytes  coverage/lcov-report/beefy/lib/bundlers/browseri\</tspan>
 <tspan x="10" y="234">fy.js.html</tspan>
-<tspan x="10" y="250"> 11.  2017-04-11 15:42:00 +0000    13418 bytes  coverage/lcov-report/beefy/lib/bundlers/index.ht\</tspan>
+<tspan x="10" y="250"> 11.  2017-04-17 21:22:18 +0000    13418 bytes  coverage/lcov-report/beefy/lib/bundlers/index.ht\</tspan>
 <tspan x="10" y="266">ml</tspan>
-<tspan x="10" y="282"> 12.  2017-04-11 15:42:00 +0000    19965 bytes  coverage/lcov-report/beefy/lib/bundlers/watchify\</tspan>
+<tspan x="10" y="282"> 12.  2017-04-17 21:22:18 +0000    19965 bytes  coverage/lcov-report/beefy/lib/bundlers/watchify\</tspan>
 <tspan x="10" y="298">.js.html</tspan>
-<tspan x="10" y="314"> 13.  2017-04-11 15:42:00 +0000    15296 bytes  coverage/lcov-report/beefy/lib/cli.js.html</tspan>
-<tspan x="10" y="330"> 14.  2017-04-11 15:42:00 +0000    15086 bytes  coverage/lcov-report/beefy/lib/create-handler.js\</tspan>
+<tspan x="10" y="314"> 13.  2017-04-17 21:22:18 +0000    15296 bytes  coverage/lcov-report/beefy/lib/cli.js.html</tspan>
+<tspan x="10" y="330"> 14.  2017-04-17 21:22:18 +0000    15086 bytes  coverage/lcov-report/beefy/lib/create-handler.js\</tspan>
 <tspan x="10" y="346">.html</tspan>
-<tspan x="10" y="362"> 15.  2017-04-11 15:42:00 +0000    13378 bytes  coverage/lcov-report/beefy/lib/extract-port.js.h\</tspan>
+<tspan x="10" y="362"> 15.  2017-04-17 21:22:18 +0000    13378 bytes  coverage/lcov-report/beefy/lib/extract-port.js.h\</tspan>
 <tspan x="10" y="378">tml</tspan>
-<tspan x="10" y="394"> 16.  2017-04-11 15:42:00 +0000    15679 bytes  coverage/lcov-report/beefy/lib/handlers/bundle.j\</tspan>
+<tspan x="10" y="394"> 16.  2017-04-17 21:22:18 +0000    15679 bytes  coverage/lcov-report/beefy/lib/handlers/bundle.j\</tspan>
 <tspan x="10" y="410">s.html</tspan>
-<tspan x="10" y="426"> 17.  2017-04-11 15:42:00 +0000    14599 bytes  coverage/lcov-report/beefy/lib/handlers/default-\</tspan>
+<tspan x="10" y="426"> 17.  2017-04-17 21:22:18 +0000    14599 bytes  coverage/lcov-report/beefy/lib/handlers/default-\</tspan>
 <tspan x="10" y="442">index.js.html</tspan>
-<tspan x="10" y="458"> 18.  2017-04-11 15:42:00 +0000    16259 bytes  coverage/lcov-report/beefy/lib/handlers/index.ht\</tspan>
+<tspan x="10" y="458"> 18.  2017-04-17 21:22:18 +0000    16259 bytes  coverage/lcov-report/beefy/lib/handlers/index.ht\</tspan>
 <tspan x="10" y="474">ml</tspan>
-<tspan x="10" y="490"> 19.  2017-04-11 15:42:00 +0000    17157 bytes  coverage/lcov-report/beefy/lib/handlers/legacy-b\</tspan>
+<tspan x="10" y="490"> 19.  2017-04-17 21:22:18 +0000    17157 bytes  coverage/lcov-report/beefy/lib/handlers/legacy-b\</tspan>
 <tspan x="10" y="506">undle.js.html</tspan>
-<tspan x="10" y="522"> 20.  2017-04-11 15:42:00 +0000    23386 bytes  coverage/lcov-report/beefy/lib/handlers/live-rel\</tspan>
+<tspan x="10" y="522"> 20.  2017-04-17 21:22:18 +0000    23386 bytes  coverage/lcov-report/beefy/lib/handlers/live-rel\</tspan>
 <tspan x="10" y="538">oad.js.html</tspan>
-<tspan x="10" y="554"> 21.  2017-04-11 15:42:00 +0000    16667 bytes  coverage/lcov-report/beefy/lib/handlers/log.js.h\</tspan>
+<tspan x="10" y="554"> 21.  2017-04-17 21:22:18 +0000    16667 bytes  coverage/lcov-report/beefy/lib/handlers/log.js.h\</tspan>
 <tspan x="10" y="570">tml</tspan>
-<tspan x="10" y="586"> 22.  2017-04-11 15:42:00 +0000    14712 bytes  coverage/lcov-report/beefy/lib/handlers/static.j\</tspan>
+<tspan x="10" y="586"> 22.  2017-04-17 21:22:18 +0000    14712 bytes  coverage/lcov-report/beefy/lib/handlers/static.j\</tspan>
 <tspan x="10" y="602">s.html</tspan>
-<tspan x="10" y="618"> 23.  2017-04-11 15:42:00 +0000    15910 bytes  coverage/lcov-report/beefy/lib/help.js.html</tspan>
-<tspan x="10" y="634"> 24.  2017-04-11 15:42:00 +0000    18454 bytes  coverage/lcov-report/beefy/lib/index.html</tspan>
-<tspan x="10" y="650"> 25.  2017-04-11 15:42:00 +0000    12797 bytes  coverage/lcov-report/beefy/lib/make-io.js.html</tspan>
-<tspan x="10" y="666"> 26.  2017-04-11 15:42:00 +0000    16612 bytes  coverage/lcov-report/beefy/lib/normalize-entry-p\</tspan>
+<tspan x="10" y="618"> 23.  2017-04-17 21:22:18 +0000    15910 bytes  coverage/lcov-report/beefy/lib/help.js.html</tspan>
+<tspan x="10" y="634"> 24.  2017-04-17 21:22:18 +0000    18454 bytes  coverage/lcov-report/beefy/lib/index.html</tspan>
+<tspan x="10" y="650"> 25.  2017-04-17 21:22:18 +0000    12797 bytes  coverage/lcov-report/beefy/lib/make-io.js.html</tspan>
+<tspan x="10" y="666"> 26.  2017-04-17 21:22:18 +0000    16612 bytes  coverage/lcov-report/beefy/lib/normalize-entry-p\</tspan>
 <tspan x="10" y="682">oints.js.html</tspan>
-<tspan x="10" y="698"> 27.  2017-04-11 15:42:00 +0000    15437 bytes  coverage/lcov-report/beefy/lib/setup-bundlers.js\</tspan>
+<tspan x="10" y="698"> 27.  2017-04-17 21:22:18 +0000    15437 bytes  coverage/lcov-report/beefy/lib/setup-bundlers.js\</tspan>
 <tspan x="10" y="714">.html</tspan>
-<tspan x="10" y="730"> 28.  2017-04-11 15:42:00 +0000    14829 bytes  coverage/lcov-report/index.html</tspan>
-<tspan x="10" y="746"> 29.  2017-04-11 15:42:00 +0000    13679 bytes  coverage/lcov-report/lib/accumulate-error.js.htm\</tspan>
+<tspan x="10" y="730"> 28.  2017-04-17 21:22:18 +0000    14829 bytes  coverage/lcov-report/index.html</tspan>
+<tspan x="10" y="746"> 29.  2017-04-17 21:22:18 +0000    13679 bytes  coverage/lcov-report/lib/accumulate-error.js.htm\</tspan>
 <tspan x="10" y="762">l</tspan>
-<tspan x="10" y="778"> 30.  2017-04-11 15:42:00 +0000    20189 bytes  coverage/lcov-report/lib/args-to-options.js.html</tspan>
-<tspan x="10" y="794"> 31.  2017-04-11 15:42:00 +0000    13203 bytes  coverage/lcov-report/lib/bundlers/browserify.js.\</tspan>
+<tspan x="10" y="778"> 30.  2017-04-17 21:22:18 +0000    20189 bytes  coverage/lcov-report/lib/args-to-options.js.html</tspan>
+<tspan x="10" y="794"> 31.  2017-04-17 21:22:18 +0000    13203 bytes  coverage/lcov-report/lib/bundlers/browserify.js.\</tspan>
 <tspan x="10" y="810">html</tspan>
-<tspan x="10" y="826"> 32.  2017-04-11 15:42:00 +0000    13375 bytes  coverage/lcov-report/lib/bundlers/index.html</tspan>
-<tspan x="10" y="842"> 33.  2017-04-11 15:42:00 +0000    19286 bytes  coverage/lcov-report/lib/bundlers/watchify.js.ht\</tspan>
+<tspan x="10" y="826"> 32.  2017-04-17 21:22:18 +0000    13375 bytes  coverage/lcov-report/lib/bundlers/index.html</tspan>
+<tspan x="10" y="842"> 33.  2017-04-17 21:22:18 +0000    19286 bytes  coverage/lcov-report/lib/bundlers/watchify.js.ht\</tspan>
 <tspan x="10" y="858">ml</tspan>
-<tspan x="10" y="874"> 34.  2017-04-11 15:42:00 +0000    15291 bytes  coverage/lcov-report/lib/cli.js.html</tspan>
-<tspan x="10" y="890"> 35.  2017-04-11 15:42:00 +0000    14951 bytes  coverage/lcov-report/lib/create-handler.js.html</tspan>
-<tspan x="10" y="906"> 36.  2017-04-11 15:42:00 +0000    13351 bytes  coverage/lcov-report/lib/extract-port.js.html</tspan>
-<tspan x="10" y="922"> 37.  2017-04-11 15:42:00 +0000    15638 bytes  coverage/lcov-report/lib/handlers/bundle.js.html</tspan>
-<tspan x="10" y="938"> 38.  2017-04-11 15:42:00 +0000    14564 bytes  coverage/lcov-report/lib/handlers/default-index.\</tspan>
+<tspan x="10" y="874"> 34.  2017-04-17 21:22:18 +0000    15291 bytes  coverage/lcov-report/lib/cli.js.html</tspan>
+<tspan x="10" y="890"> 35.  2017-04-17 21:22:18 +0000    14951 bytes  coverage/lcov-report/lib/create-handler.js.html</tspan>
+<tspan x="10" y="906"> 36.  2017-04-17 21:22:18 +0000    13351 bytes  coverage/lcov-report/lib/extract-port.js.html</tspan>
+<tspan x="10" y="922"> 37.  2017-04-17 21:22:18 +0000    15638 bytes  coverage/lcov-report/lib/handlers/bundle.js.html</tspan>
+<tspan x="10" y="938"> 38.  2017-04-17 21:22:18 +0000    14564 bytes  coverage/lcov-report/lib/handlers/default-index.\</tspan>
 <tspan x="10" y="954">js.html</tspan>
-<tspan x="10" y="970"> 39.  2017-04-11 15:42:00 +0000    16231 bytes  coverage/lcov-report/lib/handlers/index.html</tspan>
-<tspan x="10" y="986"> 40.  2017-04-11 15:42:00 +0000    17109 bytes  coverage/lcov-report/lib/handlers/legacy-bundle.\</tspan>
+<tspan x="10" y="970"> 39.  2017-04-17 21:22:18 +0000    16231 bytes  coverage/lcov-report/lib/handlers/index.html</tspan>
+<tspan x="10" y="986"> 40.  2017-04-17 21:22:18 +0000    17109 bytes  coverage/lcov-report/lib/handlers/legacy-bundle.\</tspan>
 <tspan x="10" y="1002">js.html</tspan>
-<tspan x="10" y="1018"> 41.  2017-04-11 15:42:00 +0000    22965 bytes  coverage/lcov-report/lib/handlers/live-reload.js\</tspan>
+<tspan x="10" y="1018"> 41.  2017-04-17 21:22:18 +0000    22965 bytes  coverage/lcov-report/lib/handlers/live-reload.js\</tspan>
 <tspan x="10" y="1034">.html</tspan>
-<tspan x="10" y="1050"> 42.  2017-04-11 15:42:00 +0000    16386 bytes  coverage/lcov-report/lib/handlers/log.js.html</tspan>
-<tspan x="10" y="1066"> 43.  2017-04-11 15:42:00 +0000    14830 bytes  coverage/lcov-report/lib/handlers/static.js.html</tspan>
-<tspan x="10" y="1082"> 44.  2017-04-11 15:42:00 +0000    15520 bytes  coverage/lcov-report/lib/help.js.html</tspan>
-<tspan x="10" y="1098"> 45.  2017-04-11 15:42:00 +0000    17717 bytes  coverage/lcov-report/lib/index.html</tspan>
-<tspan x="10" y="1114"> 46.  2017-04-11 15:42:00 +0000    16102 bytes  coverage/lcov-report/lib/normalize-entry-points.\</tspan>
+<tspan x="10" y="1050"> 42.  2017-04-17 21:22:18 +0000    16386 bytes  coverage/lcov-report/lib/handlers/log.js.html</tspan>
+<tspan x="10" y="1066"> 43.  2017-04-17 21:22:18 +0000    14830 bytes  coverage/lcov-report/lib/handlers/static.js.html</tspan>
+<tspan x="10" y="1082"> 44.  2017-04-17 21:22:18 +0000    15520 bytes  coverage/lcov-report/lib/help.js.html</tspan>
+<tspan x="10" y="1098"> 45.  2017-04-17 21:22:18 +0000    17717 bytes  coverage/lcov-report/lib/index.html</tspan>
+<tspan x="10" y="1114"> 46.  2017-04-17 21:22:18 +0000    16102 bytes  coverage/lcov-report/lib/normalize-entry-points.\</tspan>
 <tspan x="10" y="1130">js.html</tspan>
-<tspan x="10" y="1146"> 47.  2017-04-11 15:42:00 +0000    15410 bytes  coverage/lcov-report/lib/setup-bundlers.js.html</tspan>
-<tspan x="10" y="1162"> 48.  2017-04-11 15:42:00 +0000      676 bytes  coverage/lcov-report/prettify.css</tspan>
-<tspan x="10" y="1178"> 49.  2017-04-11 15:42:00 +0000    17569 bytes  coverage/lcov-report/prettify.js</tspan>
-<tspan x="10" y="1194"> 50.  2017-04-11 15:42:00 +0000    11243 bytes  coverage/lcov.info</tspan>
-<tspan x="10" y="1210"> 51.  2017-04-11 15:42:00 +0000     2296 bytes  index.js</tspan>
-<tspan x="10" y="1226"> 52.  2017-04-11 15:42:00 +0000      739 bytes  lib/accumulate-error.js</tspan>
-<tspan x="10" y="1242"> 53.  2017-04-11 15:42:00 +0000     2674 bytes  lib/args-to-options.js</tspan>
-<tspan x="10" y="1258"> 54.  2017-04-11 15:42:00 +0000      550 bytes  lib/bundlers/browserify.js</tspan>
-<tspan x="10" y="1274"> 55.  2017-04-11 15:42:00 +0000     2824 bytes  lib/bundlers/watchify.js</tspan>
-<tspan x="10" y="1290"> 56.  2017-04-11 15:42:00 +0000     1217 bytes  lib/cli.js</tspan>
-<tspan x="10" y="1306"> 57.  2017-04-11 15:42:00 +0000     1187 bytes  lib/create-handler.js</tspan>
-<tspan x="10" y="1322"> 58.  2017-04-11 15:42:00 +0000      541 bytes  lib/extract-port.js</tspan>
-<tspan x="10" y="1338"> 59.  2017-04-11 15:42:00 +0000      372 bytes  lib/frontend-js/error.js</tspan>
-<tspan x="10" y="1354"> 60.  2017-04-11 15:42:00 +0000      592 bytes  lib/frontend-js/live-reload.js</tspan>
-<tspan x="10" y="1370"> 61.  2017-04-11 15:42:00 +0000     1313 bytes  lib/handlers/bundle.js</tspan>
-<tspan x="10" y="1386"> 62.  2017-04-11 15:42:00 +0000     1043 bytes  lib/handlers/default-index.js</tspan>
-<tspan x="10" y="1402"> 63.  2017-04-11 15:42:00 +0000      188 bytes  lib/handlers/default.html</tspan>
-<tspan x="10" y="1418"> 64.  2017-04-11 15:42:00 +0000     1386 bytes  lib/handlers/legacy-bundle.js</tspan>
-<tspan x="10" y="1434"> 65.  2017-04-11 15:42:00 +0000     3166 bytes  lib/handlers/live-reload.js</tspan>
-<tspan x="10" y="1450"> 66.  2017-04-11 15:42:00 +0000     1600 bytes  lib/handlers/log.js</tspan>
-<tspan x="10" y="1466"> 67.  2017-04-11 15:42:00 +0000      979 bytes  lib/handlers/static.js</tspan>
-<tspan x="10" y="1482"> 68.  2017-04-11 15:42:00 +0000     1860 bytes  lib/help.js</tspan>
-<tspan x="10" y="1498"> 69.  2017-04-11 15:42:00 +0000      400 bytes  lib/make-io.js</tspan>
-<tspan x="10" y="1514"> 70.  2017-04-11 15:42:00 +0000     1509 bytes  lib/normalize-entry-points.js</tspan>
-<tspan x="10" y="1530"> 71.  2017-04-11 15:42:00 +0000     1413 bytes  lib/setup-bundlers.js</tspan>
-<tspan x="10" y="1546"> 72.  2017-04-11 15:42:00 +0000     3057 bytes  package.json</tspan>
-<tspan x="10" y="1562"> 73.  2017-04-11 15:42:00 +0000      234 bytes  test/fixtures/bad-transform.js</tspan>
-<tspan x="10" y="1578"> 74.  2017-04-11 15:42:00 +0000      263 bytes  test/fixtures/browserify/bin/args.js</tspan>
-<tspan x="10" y="1594"> 75.  2017-04-11 15:42:00 +0000      191 bytes  test/fixtures/browserify/index.js</tspan>
-<tspan x="10" y="1610"> 76.  2017-04-11 15:42:00 +0000       34 bytes  test/fixtures/example-project/bad-file.js</tspan>
-<tspan x="10" y="1626"> 77.  2017-04-11 15:42:00 +0000       24 bytes  test/fixtures/example-project/file-1.js</tspan>
-<tspan x="10" y="1642"> 78.  2017-04-11 15:42:00 +0000       25 bytes  test/fixtures/example-project/file-2.js</tspan>
-<tspan x="10" y="1658"> 79.  2017-04-11 15:42:00 +0000       12 bytes  test/fixtures/multi-bundle/a.js</tspan>
-<tspan x="10" y="1674"> 80.  2017-04-11 15:42:00 +0000       12 bytes  test/fixtures/multi-bundle/b.js</tspan>
-<tspan x="10" y="1690"> 81.  2017-04-11 15:42:00 +0000       12 bytes  test/fixtures/multi-bundle/c.js</tspan>
-<tspan x="10" y="1706"> 82.  2017-04-11 15:42:00 +0000      129 bytes  test/fixtures/no-ext-as-dir/no-ext/index.html</tspan>
-<tspan x="10" y="1722"> 83.  2017-04-11 15:42:00 +0000      136 bytes  test/fixtures/no-ext-as-file/no-ext.html</tspan>
-<tspan x="10" y="1738"> 84.  2017-04-11 15:42:00 +0000       17 bytes  test/fixtures/static/has-extname.html</tspan>
-<tspan x="10" y="1754"> 85.  2017-04-11 15:42:00 +0000       23 bytes  test/fixtures/static/has-extname/index.html</tspan>
-<tspan x="10" y="1770"> 86.  2017-04-11 15:42:00 +0000       21 bytes  test/fixtures/static/has-index/index.html</tspan>
-<tspan x="10" y="1786"> 87.  2017-04-11 15:42:00 +0000       16 bytes  test/fixtures/static/plain-file.html</tspan>
-<tspan x="10" y="1802"> 88.  2017-04-11 15:42:00 +0000      564 bytes  test/http-server.js</tspan>
-<tspan x="10" y="1818"> 89.  2017-04-11 15:42:00 +0000      967 bytes  test/index.js</tspan>
-<tspan x="10" y="1834"> 90.  2017-04-11 15:42:00 +0000     1335 bytes  test/stub-fs-watch.js</tspan>
-<tspan x="10" y="1850"> 91.  2017-04-11 15:42:00 +0000     3662 bytes  test/tests/args-to-options.js</tspan>
-<tspan x="10" y="1866"> 92.  2017-04-11 15:42:00 +0000     2004 bytes  test/tests/bundler-browserify.js</tspan>
-<tspan x="10" y="1882"> 93.  2017-04-11 15:42:00 +0000     3961 bytes  test/tests/bundler-watchify.js</tspan>
-<tspan x="10" y="1898"> 94.  2017-04-11 15:42:00 +0000     1699 bytes  test/tests/cli.js</tspan>
-<tspan x="10" y="1914"> 95.  2017-04-11 15:42:00 +0000     2985 bytes  test/tests/create-handler.js</tspan>
-<tspan x="10" y="1930"> 96.  2017-04-11 15:42:00 +0000     1808 bytes  test/tests/extract-port.js</tspan>
-<tspan x="10" y="1946"> 97.  2017-04-11 15:42:00 +0000     3645 bytes  test/tests/handler-bundle.js</tspan>
-<tspan x="10" y="1962"> 98.  2017-04-11 15:42:00 +0000     6045 bytes  test/tests/handler-default-index.js</tspan>
-<tspan x="10" y="1978"> 99.  2017-04-11 15:42:00 +0000     1699 bytes  test/tests/handler-legacy-bundle.js</tspan>
-<tspan x="10" y="1994">100.  2017-04-11 15:42:00 +0000     2105 bytes  test/tests/handler-log.js</tspan>
-<tspan x="10" y="2010">101.  2017-04-11 15:42:00 +0000     2085 bytes  test/tests/handler-static.js</tspan>
-<tspan x="10" y="2026">102.  2017-04-11 15:42:00 +0000      420 bytes  test/tests/help.js</tspan>
-<tspan x="10" y="2042">103.  2017-04-11 15:42:00 +0000     6299 bytes  test/tests/integration.js</tspan>
-<tspan x="10" y="2058">104.  2017-04-11 15:42:00 +0000      398 bytes  test/tests/lint.js</tspan>
-<tspan x="10" y="2074">105.  2017-04-11 15:42:00 +0000     1711 bytes  test/tests/normalize-entry-points.js</tspan>
-<tspan x="10" y="2090">106.  2017-04-11 15:42:00 +0000     3758 bytes  test/tests/setup-bundlers.js</tspan>
+<tspan x="10" y="1146"> 47.  2017-04-17 21:22:18 +0000    15410 bytes  coverage/lcov-report/lib/setup-bundlers.js.html</tspan>
+<tspan x="10" y="1162"> 48.  2017-04-17 21:22:18 +0000      676 bytes  coverage/lcov-report/prettify.css</tspan>
+<tspan x="10" y="1178"> 49.  2017-04-17 21:22:18 +0000    17569 bytes  coverage/lcov-report/prettify.js</tspan>
+<tspan x="10" y="1194"> 50.  2017-04-17 21:22:18 +0000    11243 bytes  coverage/lcov.info</tspan>
+<tspan x="10" y="1210"> 51.  2017-04-17 21:22:18 +0000     2296 bytes  index.js</tspan>
+<tspan x="10" y="1226"> 52.  2017-04-17 21:22:18 +0000      739 bytes  lib/accumulate-error.js</tspan>
+<tspan x="10" y="1242"> 53.  2017-04-17 21:22:18 +0000     2674 bytes  lib/args-to-options.js</tspan>
+<tspan x="10" y="1258"> 54.  2017-04-17 21:22:18 +0000      550 bytes  lib/bundlers/browserify.js</tspan>
+<tspan x="10" y="1274"> 55.  2017-04-17 21:22:18 +0000     2824 bytes  lib/bundlers/watchify.js</tspan>
+<tspan x="10" y="1290"> 56.  2017-04-17 21:22:18 +0000     1217 bytes  lib/cli.js</tspan>
+<tspan x="10" y="1306"> 57.  2017-04-17 21:22:18 +0000     1187 bytes  lib/create-handler.js</tspan>
+<tspan x="10" y="1322"> 58.  2017-04-17 21:22:18 +0000      541 bytes  lib/extract-port.js</tspan>
+<tspan x="10" y="1338"> 59.  2017-04-17 21:22:18 +0000      372 bytes  lib/frontend-js/error.js</tspan>
+<tspan x="10" y="1354"> 60.  2017-04-17 21:22:18 +0000      592 bytes  lib/frontend-js/live-reload.js</tspan>
+<tspan x="10" y="1370"> 61.  2017-04-17 21:22:18 +0000     1313 bytes  lib/handlers/bundle.js</tspan>
+<tspan x="10" y="1386"> 62.  2017-04-17 21:22:18 +0000     1043 bytes  lib/handlers/default-index.js</tspan>
+<tspan x="10" y="1402"> 63.  2017-04-17 21:22:18 +0000      188 bytes  lib/handlers/default.html</tspan>
+<tspan x="10" y="1418"> 64.  2017-04-17 21:22:18 +0000     1386 bytes  lib/handlers/legacy-bundle.js</tspan>
+<tspan x="10" y="1434"> 65.  2017-04-17 21:22:18 +0000     3166 bytes  lib/handlers/live-reload.js</tspan>
+<tspan x="10" y="1450"> 66.  2017-04-17 21:22:18 +0000     1600 bytes  lib/handlers/log.js</tspan>
+<tspan x="10" y="1466"> 67.  2017-04-17 21:22:18 +0000      979 bytes  lib/handlers/static.js</tspan>
+<tspan x="10" y="1482"> 68.  2017-04-17 21:22:18 +0000     1860 bytes  lib/help.js</tspan>
+<tspan x="10" y="1498"> 69.  2017-04-17 21:22:18 +0000      400 bytes  lib/make-io.js</tspan>
+<tspan x="10" y="1514"> 70.  2017-04-17 21:22:18 +0000     1509 bytes  lib/normalize-entry-points.js</tspan>
+<tspan x="10" y="1530"> 71.  2017-04-17 21:22:18 +0000     1413 bytes  lib/setup-bundlers.js</tspan>
+<tspan x="10" y="1546"> 72.  2017-04-17 21:22:18 +0000     3057 bytes  package.json</tspan>
+<tspan x="10" y="1562"> 73.  2017-04-17 21:22:18 +0000      234 bytes  test/fixtures/bad-transform.js</tspan>
+<tspan x="10" y="1578"> 74.  2017-04-17 21:22:18 +0000      263 bytes  test/fixtures/browserify/bin/args.js</tspan>
+<tspan x="10" y="1594"> 75.  2017-04-17 21:22:18 +0000      191 bytes  test/fixtures/browserify/index.js</tspan>
+<tspan x="10" y="1610"> 76.  2017-04-17 21:22:18 +0000       34 bytes  test/fixtures/example-project/bad-file.js</tspan>
+<tspan x="10" y="1626"> 77.  2017-04-17 21:22:18 +0000       24 bytes  test/fixtures/example-project/file-1.js</tspan>
+<tspan x="10" y="1642"> 78.  2017-04-17 21:22:18 +0000       25 bytes  test/fixtures/example-project/file-2.js</tspan>
+<tspan x="10" y="1658"> 79.  2017-04-17 21:22:18 +0000       12 bytes  test/fixtures/multi-bundle/a.js</tspan>
+<tspan x="10" y="1674"> 80.  2017-04-17 21:22:18 +0000       12 bytes  test/fixtures/multi-bundle/b.js</tspan>
+<tspan x="10" y="1690"> 81.  2017-04-17 21:22:18 +0000       12 bytes  test/fixtures/multi-bundle/c.js</tspan>
+<tspan x="10" y="1706"> 82.  2017-04-17 21:22:18 +0000      129 bytes  test/fixtures/no-ext-as-dir/no-ext/index.html</tspan>
+<tspan x="10" y="1722"> 83.  2017-04-17 21:22:18 +0000      136 bytes  test/fixtures/no-ext-as-file/no-ext.html</tspan>
+<tspan x="10" y="1738"> 84.  2017-04-17 21:22:18 +0000       17 bytes  test/fixtures/static/has-extname.html</tspan>
+<tspan x="10" y="1754"> 85.  2017-04-17 21:22:18 +0000       23 bytes  test/fixtures/static/has-extname/index.html</tspan>
+<tspan x="10" y="1770"> 86.  2017-04-17 21:22:18 +0000       21 bytes  test/fixtures/static/has-index/index.html</tspan>
+<tspan x="10" y="1786"> 87.  2017-04-17 21:22:18 +0000       16 bytes  test/fixtures/static/plain-file.html</tspan>
+<tspan x="10" y="1802"> 88.  2017-04-17 21:22:18 +0000      564 bytes  test/http-server.js</tspan>
+<tspan x="10" y="1818"> 89.  2017-04-17 21:22:18 +0000      967 bytes  test/index.js</tspan>
+<tspan x="10" y="1834"> 90.  2017-04-17 21:22:18 +0000     1335 bytes  test/stub-fs-watch.js</tspan>
+<tspan x="10" y="1850"> 91.  2017-04-17 21:22:18 +0000     3662 bytes  test/tests/args-to-options.js</tspan>
+<tspan x="10" y="1866"> 92.  2017-04-17 21:22:18 +0000     2004 bytes  test/tests/bundler-browserify.js</tspan>
+<tspan x="10" y="1882"> 93.  2017-04-17 21:22:18 +0000     3961 bytes  test/tests/bundler-watchify.js</tspan>
+<tspan x="10" y="1898"> 94.  2017-04-17 21:22:18 +0000     1699 bytes  test/tests/cli.js</tspan>
+<tspan x="10" y="1914"> 95.  2017-04-17 21:22:18 +0000     2985 bytes  test/tests/create-handler.js</tspan>
+<tspan x="10" y="1930"> 96.  2017-04-17 21:22:18 +0000     1808 bytes  test/tests/extract-port.js</tspan>
+<tspan x="10" y="1946"> 97.  2017-04-17 21:22:18 +0000     3645 bytes  test/tests/handler-bundle.js</tspan>
+<tspan x="10" y="1962"> 98.  2017-04-17 21:22:18 +0000     6045 bytes  test/tests/handler-default-index.js</tspan>
+<tspan x="10" y="1978"> 99.  2017-04-17 21:22:18 +0000     1699 bytes  test/tests/handler-legacy-bundle.js</tspan>
+<tspan x="10" y="1994">100.  2017-04-17 21:22:18 +0000     2105 bytes  test/tests/handler-log.js</tspan>
+<tspan x="10" y="2010">101.  2017-04-17 21:22:18 +0000     2085 bytes  test/tests/handler-static.js</tspan>
+<tspan x="10" y="2026">102.  2017-04-17 21:22:18 +0000      420 bytes  test/tests/help.js</tspan>
+<tspan x="10" y="2042">103.  2017-04-17 21:22:18 +0000     6299 bytes  test/tests/integration.js</tspan>
+<tspan x="10" y="2058">104.  2017-04-17 21:22:18 +0000      398 bytes  test/tests/lint.js</tspan>
+<tspan x="10" y="2074">105.  2017-04-17 21:22:18 +0000     1711 bytes  test/tests/normalize-entry-points.js</tspan>
+<tspan x="10" y="2090">106.  2017-04-17 21:22:18 +0000     3758 bytes  test/tests/setup-bundlers.js</tspan>
 </text>
 </svg>
