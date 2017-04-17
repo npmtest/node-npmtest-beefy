@@ -1,7 +1,7 @@
 # test coverage for  [beefy (v2.1.8)](https://github.com/chrisdickinson/beefy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-beefy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-beefy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-beefy.svg)](https://travis-ci.org/npmtest/node-npmtest-beefy)
 #### local development server that aims to make using browserify fast and fun
 
-[![NPM](https://nodei.co/npm/beefy.png?downloads=true)](https://www.npmjs.com/package/beefy)
+[![NPM](https://nodei.co/npm/beefy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/beefy)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-beefy/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-beefy/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-beefy/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-beefy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-beefy/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-beefy/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-beefy/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-beefy/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-beefy/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-beefy/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-beefy%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-beefy/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-beefy/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-beefy/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-beefy/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-beefy%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-beefy/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-beefy/build/test-report.html](https://npmtest.github.io/node-npmtest-beefy/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-beefy/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-beefy/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-beefy/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-beefy/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-beefy/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-beefy/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-beefy/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Chris Dickinson",
-        "email": "chris@neversaw.us"
+        "name": "Chris Dickinson"
     },
     "bin": {
         "beefy": "./bin/beefy"
@@ -82,17 +87,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "chrisdickinson",
-            "email": "chris@neversaw.us"
+            "name": "chrisdickinson"
         },
         {
-            "name": "dlmanning",
-            "email": "dlmanning@me.com"
+            "name": "dlmanning"
         }
     ],
     "name": "beefy",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/chrisdickinson/beefy.git"
