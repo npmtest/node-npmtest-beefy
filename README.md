@@ -1,4 +1,7 @@
-# test coverage for  [beefy (v2.1.8)](https://github.com/chrisdickinson/beefy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-beefy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-beefy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-beefy.svg)](https://travis-ci.org/npmtest/node-npmtest-beefy)
+# npmtest-beefy
+
+#### basic test coverage for  [beefy (v2.1.8)](https://github.com/chrisdickinson/beefy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-beefy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-beefy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-beefy.svg)](https://travis-ci.org/npmtest/node-npmtest-beefy)
+
 #### local development server that aims to make using browserify fast and fun
 
 [![NPM](https://nodei.co/npm/beefy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/beefy)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-beefy/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-beefy/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-beefy/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-beefy/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-beefy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-beefy/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-beefy/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-beefy/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-beefy/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-beefy/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-beefy/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-beefy/build/coverage.html/index.html)
 

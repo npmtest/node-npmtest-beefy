@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [beefy (v2.1.8)](https://github.com/chrisdickinson/beefy#readme) [![npm package](https://img.shields.io/npm/v/npmtest-beefy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-beefy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-beefy.svg)](https://travis-ci.org/npmtest/node-npmtest-beefy)",
+    "description": "#### basic test coverage for  [beefy (v2.1.8)](https://github.com/chrisdickinson/beefy#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-beefy.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-beefy) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-beefy.svg)](https://travis-ci.org/npmtest/node-npmtest-beefy)",
     "devDependencies": {
         "beefy": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
